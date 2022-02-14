@@ -1,0 +1,39 @@
+h3 {color:maroon}
+            .classtest {color :goldenrod}
+            #idtest {color :navy}
+            .testbox
+            {
+                border: 10px solid blue;
+                padding: 0.5em;
+                width: 200px;
+                height: 130px;
+            }
+#f1{
+    font-family: Syne Tactile, serif;
+}
+#f2{
+    font-family: Rowdies, serif;
+}
+#f3{
+    font-family: Lobster, serif;
+}
+.container{
+    width: 100%;
+    display: flex;
+}
+.container2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.red{background-color: red;}
+.green{background-color: green;}
+.yellow{background-color: yellow;}
